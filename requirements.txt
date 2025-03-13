@@ -3,3 +3,4 @@ speechrecognition
 groq
 elevenlabs
 datetime
+pyaudio
