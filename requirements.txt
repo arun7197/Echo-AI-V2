@@ -1,5 +1,6 @@
-streamlit
-speechrecognition
-groq
-elevenlabs
-datetime
+streamlit==1.43.1
+speechrecognition==3.14.1
+groq==0.18.0
+elevenlabs==1.54.0
+DateTime==5.5
+PyAudio==0.2.14
